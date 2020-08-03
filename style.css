@@ -1,6 +1,11 @@
 .header__title{
   color: red;
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap`);
 }
 .section__text{
   color: red;
+}
+html{
+    font-family: "Bitstream Vera Serif Bold";
+    src: url("https://mdn.mozillademos.org/files/2468/VeraSeBd.ttf");
 }
